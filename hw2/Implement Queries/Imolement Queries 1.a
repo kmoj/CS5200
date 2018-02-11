@@ -1,3 +1,0 @@
-SELECT	person.id
-FROM	person	JOIN	developer
-ON		person.id = developer.person
