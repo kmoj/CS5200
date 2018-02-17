@@ -43,9 +43,25 @@ public class Hw03Cs5200ZhangTengApplication {
 //		update1Result = implementUpdate1();
 //		System.out.println("updated " + update1Result + " widgets");
 //		
+//		int update2Result = 0;
+//		update2Result = implementUpdate2();
+//		System.out.println("updated " + update2Result + " pages");
+//		
+//		int update3Result = 0;
+//		update3Result = implementUpdate3();
+//		System.out.println("updated " + update3Result + " website roles");
+//	
+//		int implementDelete1Result = 0;
+//		implementDelete1Result = implementDelete1();
+//		System.out.println("deleted " + implementDelete1Result + " widgets");
+//		
+//		int implementDelete2Result = 0;
+//		implementDelete2Result = implementDelete2();
+//		System.out.println("deleted " + implementDelete2Result + " pages");
+//		
 //		int implementDelete3Result = 0;
 //		implementDelete3Result = implementDelete3();
-//		System.out.println("updated " + implementDelete3Result + " websites");
+//		System.out.println("deleted " + implementDelete3Result + " websites");
 
 		
 	}
