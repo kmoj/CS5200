@@ -38,7 +38,8 @@ public class Hw03Cs5200ZhangTengApplication {
 		insertWidgetsRresult = insertWidgets();
 		System.out.println("inserted " + insertWidgetsRresult + " widgets");
 		
-		
+//		UNCOMMENT THE LINES BELOW TO TEST THE IMPLEMENTS OF UPDATES AND DELETES
+//		
 //		int update1Result = 0;
 //		update1Result = implementUpdate1();
 //		System.out.println("updated " + update1Result + " widgets");
